@@ -1,7 +1,7 @@
 # Python-Webscraping-using-beautifulsoup
 
 The objective of using the webscraping is to call all entries of sanctioned individuals and entities as maintained by the Department of Foreign Affairs and International Trade or the Canadian International Development Agency
-and use python library and tools to easily identify and match off name(s) of called individuals and entities against the sanctions list.
+and use python library and tools to easily identify and match off name(s) of called individuals and entities against the sanctions list. This tool demonstrates that there can be a cost effective use an open source tool for small businesses which needs to screen clients or business partners in the arena of regulatory compliance which has now moved beyond financial institutions effectively making small businesses as Gate keepers themselves.
 
 
 **Consolidated Canadian Autonomous Sanctions List**
