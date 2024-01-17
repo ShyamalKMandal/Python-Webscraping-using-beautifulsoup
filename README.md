@@ -1,5 +1,9 @@
 # Python-Webscraping-using-beautifulsoup
 
+The objective of using the webscraping is to call all entries of sanctioned individuals and entities as maintained by the Department of Foreign Affairs and International Trade or the Canadian International Development Agency
+and use python library and tools to easily identify and match off name(s) of called individuals and entities against the sanctions list.
+
+
 **Consolidated Canadian Autonomous Sanctions List**
 
 The Consolidated Canadian Autonomous Sanctions List includes individuals and entities subject to specific sanctions regulations made under the Special Economic Measures Act (SEMA) and the Justice for Victims of Corrupt Foreign Officials Act (JVCFOA).The inclusion of these names on this list is for administrative purposes only. The consolidated list is not a regulation, and it does not have force of law.
